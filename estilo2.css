@@ -1,0 +1,56 @@
+header{
+    position:relative;
+    text-align: center;
+    margin-left: 2%;
+    color: aliceblue;
+    margin-right: 80%;
+    margin-bottom: 0%;
+    font-size: large;
+    width: 100vw;
+    margin-top: 0%;
+    padding: 0px;
+}
+aside{
+    position:relative;
+    text-align: left;
+    margin-left: 0.50%;
+    margin-right: 80%;
+    margin-bottom: 0%;
+    margin-top: 5%;
+    background-color: gold;
+    display: inline-block;
+    height: 120%;
+}
+main{
+    text-align: center;
+    margin-right:0%;
+    margin-left: 20%;
+    margin-bottom: 0%;
+    margin-top: -33.5%;
+    color:aliceblue;
+    position: relative;
+}
+img{
+    width: 100vw;
+    height: 30vw;
+}
+body{
+    margin: 0%;
+    width: 100vw;
+    background-color: rgb(49, 76, 131);
+}
+.lista>li{
+    margin-bottom: 10px;
+    
+}
+footer{
+    margin-top: 0%;
+    background-color: blue;
+    height: 5vh;
+    color: aliceblue;
+    width: 20vw;
+}
+.imagenmail{
+    width: 10px;
+    height: 10px;
+}
